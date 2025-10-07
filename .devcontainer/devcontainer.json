@@ -32,7 +32,11 @@
         "editor.formatOnSave": true,
         "files.associations": {
           "**/grammar": "plantext",
-          "**/code": "java"
+          "**/code": "java",
+          "**/env": "java",
+          "**/envVal": "java",
+          "**/prim": "java",
+          "**/val": "java"
         },
         "files.autoSave": "afterDelay",
         "terminal.integrated.defaultProfile.linux": "bash",
