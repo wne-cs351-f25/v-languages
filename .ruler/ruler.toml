@@ -2,7 +2,7 @@
 # See https://ai.intellectronica.net/ruler for documentation.
 
 # Configure popular coding agents for PLCC development
-default_agents = ["claude", "gemini-cli", "copilot", "codex", "cursor", "aider", "windsurf", "cline"]
+default_agents = ["claude", "gemini-cli", "copilot", "cursor", "aider", "windsurf", "cline"]
 
 # --- Agent Specific Configurations ---
 # Enable the most popular coding agents with their default paths
@@ -10,10 +10,6 @@ default_agents = ["claude", "gemini-cli", "copilot", "codex", "cursor", "aider",
 [agents.claude]
 enabled = true
 output_path = "CLAUDE.md"
-
-[agents.codex]
-enabled = true
-output_path = "AGENTS.md"
 
 [agents.gemini-cli]
 enabled = true

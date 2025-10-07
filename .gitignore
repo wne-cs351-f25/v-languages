@@ -176,3 +176,23 @@ dmypy.json
 cython_debug/
 
 *mcp.json
+
+
+# START Ruler Generated Files
+/.aider.conf.yml
+/.aider.conf.yml.bak
+/.clinerules
+/.clinerules.bak
+/.cursor/rules/ruler_cursor_instructions.mdc
+/.cursor/rules/ruler_cursor_instructions.mdc.bak
+/.github/copilot-instructions.md
+/.github/copilot-instructions.md.bak
+/.windsurf/rules/ruler_windsurf_instructions.md
+/.windsurf/rules/ruler_windsurf_instructions.md.bak
+/CLAUDE.md
+/CLAUDE.md.bak
+/GEMINI.md
+/GEMINI.md.bak
+/ruler_aider_instructions.md
+/ruler_aider_instructions.md.bak
+# END Ruler Generated Files
